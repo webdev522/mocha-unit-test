@@ -1,0 +1,11 @@
+{
+  "name": "mocha-unit-test",
+  "version": "1.0.0",
+  "description": "Unit testing by mocha",
+  "main": "index.js",
+  "author": "webdev522",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  }
+}
